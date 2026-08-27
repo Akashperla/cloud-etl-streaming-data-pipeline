@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,status,event_time
+T-1001,C-101,49.95,completed,2026-08-01 10:15:00
+T-1002,C-102,120.00,pending,2026-08-01 10:17:00
+T-1002,C-102,120.00,pending,2026-08-01 10:17:00
+T-1003,C-103,18.50,completed,2026-08-02 08:30:00
+T-1004,C-104,-10.00,failed,2026-08-02 09:00:00
